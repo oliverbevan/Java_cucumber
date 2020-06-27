@@ -1,2 +1,4 @@
 # Java_cucumber
-Run the tests with mvn test
+Run the tests:
+
+$mvn test
